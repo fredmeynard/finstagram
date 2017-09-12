@@ -14,6 +14,10 @@ header {
     color:#E8FDFF;
 }
 
+body header h1 {
+    margin: 10px auto;
+}
+
 .post {margin-bottom:48px;}
 
 .post .user-info img {border-radius:50%;}
