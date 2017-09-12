@@ -10,8 +10,22 @@ main {
 }
 
 body header {
-    background-color:#244751;
-    color:#E8FDFF;
+    background-color:red;
+    color:#FFF;
+    font-family: "Montserrat";
+    text-transform:UPPERCASE;
+}
+
+body header a {
+    color:#FFF;
+    float: left;
+    display:inline-block; 
+}
+
+.logo i {
+    font-size: 38px;
+    width:auto;
+    float:left;    
 }
 
 body header h1 {
